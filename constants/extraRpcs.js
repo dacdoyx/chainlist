@@ -346,9 +346,9 @@ export const extraRpcs = {
         trackingDetails: privacyStatement.tenderly,
       },
       {
-        url: "https://api.zan.top/node/v1/eth/mainnet/public",
-        tracking: "limited",
-        trackingDetails: privacyStatement.zan,
+        url: "https://mainnet.rpc.tenderly.co/55881a80-d72c-44de-ac2a-6b2707027eea",
+        tracking: "yes",
+        trackingDetails: privacyStatement.tenderly,
       },
       {
         url: "https://eth-mainnet.diamondswap.org/rpc",
