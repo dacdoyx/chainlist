@@ -336,7 +336,7 @@ export const extraRpcs = {
         trackingDetails: privacyStatement.tenderly,
       },
       {
-        url: "https://rpc.tenderly.co/fork/c63af728-a183-4cfb-b24e-a92801463484",
+        url: "https://mainnet.rpc.tenderly.co/55881a80-d72c-44de-ac2a-6b2707027eea",
         tracking: "yes",
         trackingDetails: privacyStatement.tenderly,
       },
