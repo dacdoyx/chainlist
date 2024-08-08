@@ -189,7 +189,7 @@ export const extraRpcs = {
         trackingDetails: privacyStatement.nodereal,
       },
       {
-        url: "https://ethereum-rpc.publicnode.com",
+        url: "https://mainnet.rpc.tenderly.co/55881a80-d72c-44de-ac2a-6b2707027eea",
         tracking: "none",
         trackingDetails: privacyStatement.publicnode,
       },
